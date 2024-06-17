@@ -1,1 +1,2 @@
 # Municipality-Website
+During my internship at ETE-services, I had the privilege of creating a website for the municipality of Batroun. This digital platform is a window into the soul of Batroun, showcasing its stunning beauty and rich history. Visitors can explore everything from scenic landscapes to historical landmarks, all woven together with intuitive design and navigation. It’s more than a website; it’s an invitation to experience the essence of Batroun.
